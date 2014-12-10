@@ -1,6 +1,6 @@
 cfs-ui
 =========================
-Fork from CollectionFS to iplement certain app-specific features. 
+Fork from CollectionFS to implement certain app-specific features. 
 *****Do not use this in your project, this is for internal use only - please use the package from atmosphere ******
 Provides additional UI helpers for CollectionFS. Requires Meteor 0.8.0 or higher.
 
