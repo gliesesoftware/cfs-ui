@@ -1,8 +1,8 @@
 Package.describe({
   name: 'gliese:cfs-ui',
-  version: '0.0.0',
-  summary: 'Gliese extension of CollectionFS, provides UI helpers',
-  git: 'https://github.com/gliesesoftware/meteor-cfs-ui'
+  version: '0.0.1',
+  summary: 'Gliese extension of CollectionFS, provides UI helpers & a file insert handler',
+  git: 'https://github.com/gliesesoftware/meteor-cfs-ui.git'
 });
 
 Package.on_use(function(api) {
